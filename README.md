@@ -3,6 +3,10 @@
 > **MSc Mechatronic Systems Dissertation** - End-to-end deep learning perception
 > pipeline with multi-sensor fusion, deployed on Quanser QCar hardware.
 
+> 🏆 **Featured by Quanser in the Quanser Community Showcase**  
+> Selected by Quanser and published in the official **Quanser Academic Resources** repository as a sim-to-real QCar autonomous driving project.  
+> [View the official Quanser spotlight →](https://github.com/quanser/Quanser_Academic_Resources/tree/dev-windows/8_user_content/1_education/Kingston%20University_SarathKumarKomathukattil_QCar1_EndToEnd_VisionBased_AutonomousStack)
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-green.svg)](https://github.com/ultralytics/ultralytics)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
